@@ -1,7 +1,7 @@
 {
   "name": "lambda-boilerplate",
   "version": "0.0.1",
-  "description": "A lambda boiler plate project for simple backend with a RESTful API endpoint using Amazon API Gateway.",
+  "description": "A lambda boilerplate project for the simple backend with a RESTful API endpoint using the Amazon API Gateway.",
   "scripts": {
     "start": "node app.js",
     "rmzip": "rm index.zip",
